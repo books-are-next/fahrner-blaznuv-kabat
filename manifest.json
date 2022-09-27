@@ -1,0 +1,256 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Bláznův kabát",
+  "author": "Martin Fahrner",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrion",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fahrner-blaznuv-kabat-5ec6ee4",
+  "revision": "5ec6ee4",
+  "readingOrder": [
+    "promo.html",
+    "blaznuv_kabat_005.html",
+    "blaznuv_kabat_006.html",
+    "blaznuv_kabat_007.html",
+    "blaznuv_kabat_008.html",
+    "blaznuv_kabat_009.html",
+    "blaznuv_kabat_010.html",
+    "blaznuv_kabat_011.html",
+    "blaznuv_kabat_012.html",
+    "blaznuv_kabat_013.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Sep 27 2022 10:53:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664275984524
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "blaznuv_kabat_005.html",
+      "toc": []
+    },
+    {
+      "title": "Temná komora",
+      "file": "blaznuv_kabat_005.html",
+      "words": 2385,
+      "chars": 13512,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "blaznuv_kabat_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Temná komora",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proměny",
+      "file": "blaznuv_kabat_006.html",
+      "words": 2724,
+      "chars": 15434,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 2,
+      "prev": "blaznuv_kabat_005.html",
+      "next": "blaznuv_kabat_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proměny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rande",
+      "file": "blaznuv_kabat_007.html",
+      "words": 2424,
+      "chars": 13510,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 3,
+      "prev": "blaznuv_kabat_006.html",
+      "next": "blaznuv_kabat_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rande",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bláznův kabát",
+      "file": "blaznuv_kabat_008.html",
+      "words": 8371,
+      "chars": 47222,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 4,
+      "prev": "blaznuv_kabat_007.html",
+      "next": "blaznuv_kabat_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bláznův kabát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výpal",
+      "file": "blaznuv_kabat_009.html",
+      "words": 3822,
+      "chars": 21394,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 5,
+      "prev": "blaznuv_kabat_008.html",
+      "next": "blaznuv_kabat_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výpal",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bruslař",
+      "file": "blaznuv_kabat_010.html",
+      "words": 3280,
+      "chars": 18446,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 6,
+      "prev": "blaznuv_kabat_009.html",
+      "next": "blaznuv_kabat_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bruslař",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plodné dny",
+      "file": "blaznuv_kabat_011.html",
+      "words": 2829,
+      "chars": 16166,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 7,
+      "prev": "blaznuv_kabat_010.html",
+      "next": "blaznuv_kabat_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plodné dny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Muž jedoucí po vodě",
+      "file": "blaznuv_kabat_012.html",
+      "words": 7911,
+      "chars": 44239,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 8,
+      "prev": "blaznuv_kabat_011.html",
+      "next": "blaznuv_kabat_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Muž jedoucí po vodě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rychlovlak",
+      "file": "blaznuv_kabat_013.html",
+      "words": 8467,
+      "chars": 47601,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 9,
+      "prev": "blaznuv_kabat_012.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rychlovlak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 121,
+      "chars": 790,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "blaznuv_kabat_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 42340,
+      "chars": 238353,
+      "ideas": 482
+    },
+    "chapters": {
+      "words": 42213,
+      "chars": 237524,
+      "ideas": 463
+    }
+  }
+}
