@@ -11,7 +11,8 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-02-25T00:00:00.000Z'
   publisherShort: mkp
-  edition: Beletrion
+  edition: Beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - blaznuv_kabat_005.html

@@ -5,11 +5,11 @@
   "title": "Bláznův kabát",
   "author": "Martin Fahrner",
   "publisher": "Městská knihovna v Praze",
-  "edition": "Beletrion",
+  "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-blaznuv-kabat-5ec6ee4",
-  "revision": "5ec6ee4",
+  "identifier": "fahrner-blaznuv-kabat-f85bd31",
+  "revision": "f85bd31",
   "readingOrder": [
     "promo.html",
     "blaznuv_kabat_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Sep 27 2022 10:53:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664275984524
+    "date": "Tue Sep 27 2022 10:57:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664276250648
   },
   "documents": [
     {
@@ -244,7 +244,7 @@
   "totals": {
     "all": {
       "words": 42340,
-      "chars": 238353,
+      "chars": 238352,
       "ideas": 482
     },
     "chapters": {
