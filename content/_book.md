@@ -2,19 +2,18 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Bláznův kabát
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Martin Fahrner
   publisher: Městská knihovna v Praze
   modified: '2021-02-25T00:00:00.000Z'
+  publisherShort: mkp
+  edition: Beletrion
 readingOrder:
   - promo.html
-  - blaznuv_kabat_001.html
-  - blaznuv_kabat_002.html
-  - blaznuv_kabat_003.html
-  - blaznuv_kabat_004.html
   - blaznuv_kabat_005.html
   - blaznuv_kabat_006.html
   - blaznuv_kabat_007.html
@@ -24,11 +23,39 @@ readingOrder:
   - blaznuv_kabat_011.html
   - blaznuv_kabat_012.html
   - blaznuv_kabat_013.html
-  - blaznuv_kabat_014.html
+  - about.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: blaznuv_kabat_005.html
+        title: Temná komora
+        hiddenTitle: false
+      - link: blaznuv_kabat_006.html
+        title: Proměny
+        hiddenTitle: false
+      - link: blaznuv_kabat_007.html
+        title: Rande
+        hiddenTitle: false
+      - link: blaznuv_kabat_008.html
+        title: Bláznův kabát
+        hiddenTitle: false
+      - link: blaznuv_kabat_009.html
+        title: Výpal
+        hiddenTitle: false
+      - link: blaznuv_kabat_010.html
+        title: Bruslař
+        hiddenTitle: false
+      - link: blaznuv_kabat_011.html
+        title: Plodné dny
+        hiddenTitle: false
+      - link: blaznuv_kabat_012.html
+        title: Muž jedoucí po vodě
+        hiddenTitle: false
+      - link: blaznuv_kabat_013.html
+        title: Rychlovlak
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
