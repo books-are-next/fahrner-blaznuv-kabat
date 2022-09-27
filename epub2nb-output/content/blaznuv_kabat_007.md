@@ -5,31 +5,31 @@ contentType: prose
 
 <section>
 
-### Anežka
+## Anežka
 
 Máma je u nás na vesnici tmelicí prvek. Organizuje přednášky a vůbec. Teď zrovna výlet do Jugoslávie. Do Meždugorie. Nebo Medžugorie? Přesně nevím. A jako vždycky tady u nás, za dobrotu na žebrotu, protože nejdříve byli všichni pro, když farář vyhlásil v kostele, že se pojedeme celá vesnice podívat na zjevení. Protože tam v Meždu nebo Medžu či co mělo být nějaký zjevení. Nějaký děti ho viděly, prej skoro stejně starý jako já, a od tý doby tam jezdí lidi z celýho světa, co doufají, že si vyprosí, po čem touží. Zdálo se, že nebude stačit autobus. A najednou se všichni kroutí, kdekomu do toho něco přišlo, jenže jestli pojede poloprázdnej autobus, bude cesta pro zbytek hrozně drahá, takže máma objíždí už i lidi z jinejch vesnic, jestli by nejeli. Celý víkendy bejvá pryč a ani netuší, jakýmu mě tím vystavuje pokušení.
 
-### Pepík
+## Pepík
 
 Vím předem, jak mě přivítá, když je sama doma. Má na sobě tátovu košili, která jí sahá skoro po kolena, pod tou bílou košilí je vidět tmavý obrys kalhotek, když jde přede mnou do schodů. A jinak pod košilí zapnutou jen na jediný knoflík není nic. Pokaždý je čerstvě vypraná, nažehlená a voní nějakým skvělým pracím práškem. A večer je stejná košile zmuchlaná, sežvaněná a propocená. Už nevoní po pracím prášku, ale po její kůži. Sundat ji nesmím, ten jeden knoflíček je tabu, ale ušitá je asi doma, blbě, protože dírka je mnohem větší než knoflík, jelikož se dost často rozepíná. Nechává to tak, ale mě by za to plácla přes ruku.
 
-### Anežka
+## Anežka
 
 Máma by se zbláznila, ale podle mě na tom není nic špatnýho. Na mazlení určitě ne. Sama se se mnou mazlila, když jsem byla menší, i babička a děda. A když se můžou mazlit rodiče s dětmi, co by na tom mělo být špatného. Špatné jsou teprve věci, ke kterým to vede. Může vést, když člověk nemá dost silnou vůli, když je slabší než jeho tělo. Proto se snažím být silnější než moje tělo, i když neúspěšně. Nejradši bych se snad propletla skrz Pepíka, skrz naskrz. Někdy se k sobě tak tiskneme, že čekám, až se ozve mlask, puf, a budeme o sebe rozplácnutí jak dvě rajčata. Pepča by se vydržel mazlit celý víkend, ale já chci zažít s klukem i něco jinýho, třeba jít na procházku a držet se za ruce. On se samozřejmě hrozně divil, proč bychom chodili ven, když máma není doma, a málem jsme se pohádali, málem, tak jsem mu navrhla, že pojedeme autem, což na něj zabere vždycky. Auta miluje.
 
-### Radek
+## Radek
 
 Když Šárku pustili z nemocnice, tiskli jsme se k sobě jako nějací blázni, milovali jsme se, měli jsme se rádi, ale nebylo nám to nic platné. Vždycky jsem si myslel, že láska samotná úplně stačí ke štěstí. Byl jsem si tím jist, že by úplně stačilo cítit vedle sebe druhého. Hodně jsme se snažili chodit na procházky, trochu vypadnout z toho sterilního, šerýho, blikajícího prostředí nemocnice. Ale i při procházkách jsme bývali do sebe zavěšení, pokud byla dost široká cesta. A při jedný z procházek jsme je potkali, ty dva z kombíku. Snažili se zaparkovat, ale přední kola jim sklouzla z krajnice a už nevyjeli zpátky. Kluk seděl za volantem a holka pobíhala bezradně kolem. Všichni tři jsme si stoupli na stráň pod auto a chytli se za přední nárazník. Kluk dal zpátečku a my tlačili. Na jednu věc jsme zapomněli, že auta mívají zástěrky jen z jedné strany, takže auto nás všechny tři ohodilo blátem od hlavy až k patě.
 
-### Šárka
+## Šárka
 
 Takhle to nebylo. Nejdřív jsme je viděli, jak lezou po čtyřech po takový travičce vedle silnice, jak začíná lesík. Chytla jsem Radka za ruku, ať jako dál nechodí, protože tady často vyrušíte nějaký páreček, lidi se sem jezdí zašít. Ale když se po očku podívám, oni nejsou na sobě, oni jsou vedle sebe a něco asi hledají. Pak to konečně najdou a asi to jsou klíčky od auta a teprve pak si on sedá a ona mu ukazuje. Ukazuje ještě kousek a ještě a pak teprve šup, a už mu to sklouzlo. Ale až pak. Já byla nastrojená jak panenka, protože jsem to hrozně potřebovala, vzít si na sebe něco hezkýho, cejtit se v tom pěkně, vidět, že se mu pořád líbím, i když jsem taková utahaná a zoufalá. Nejdřív mi to ohodilo nohy, to jsem si ještě myslela, že jsem si prostě stoupla do něčeho mokrýho. Koukla jsem se dolů a to už mi to nahazovalo punčochy a nakonec sukni, co se nesmí skoro prát, jenom v ruce, byli jsme jak nějaký sněhuláci, ale z bahna. Křičet jsem nemohla, protože jsem měla zaťatý zuby, jak jsme pořád tlačili a doufali, že to blbý auto aspoň dostaneme na cestu, když to musí být za tuhle cenu.
 
-### Pepík
+## Pepík
 
 Problém je v tom, že člověk není schopen myslet na nic jinýho. Dohodli jsme si projížďku na kolech. Fajn. Nastoupíme do auta a bác, už se líbáme. Jak se držíme za ruce, vůbec nemůžu řadit, takže se vždycky musíme pustit, ale sotva tam rychlost je, už zase cítím, jak její ruka hledá moji. Tady je hodně zatáček, takže se pouštíme a chytáme pořád. A jen zastavíme, už se zase líbáme. Jak vystoupíme, navrhuju, že bychom se mohli jenom projít, protože určité partie mě z věčnýho mazlení bolí tak, že si neumím představit, jak bych na tom kole mohl asi sedět. Anežka se otočí a říká, ať dám auto ještě na stranu, kdyby chtěl někdo projet. Zase se líbáme, pak sedám do auta, trochu s ním pohnu a mlask. Ať dřu motor na zpátečku, jak chci, pomalu sklouzávám pořád dolů. Viděl jsem vlastně jejich hlavy skloněný nad kapotou a nejdřív jsem si myslel, že ty grimasy jsou prostě od námahy. Když se vzdali a já vystoupil, moje první bylo pryč, honem pryč, než mě zabijou, tak byli zabahněný, já myslel, že musím zdrhat. On se mi zdál docela nebezpečný, jenže místo aby mě honil, objal svoji manželku. Měla slzy na krajíčku. A utěšoval ji. Hrozně tím na mě zapůsobil.
 
-### Anežka
+## Anežka
 
 Pepča vystoupil z auta a rozběhl se do lesa. Vůbec jsem nechápala, pro co tam běží. A najednou se otočil a vrátil se pomalu zpátky. Netušila jsem, o co jde. Jich mi bylo hrozně líto. Takový pěkný lidi, nastrojený, měli před sebou romantickou procházku, a teď tady stojí od hlavy až k patě od bahna. Dokonce navrhují, že se půjdou převléknout a kouknou se v sousední vesnici po nějakém traktoru. Pepík horlivě vyhrkne, že zajede sehnat traktor na kole, ale když si ho chce vyndat, zjistí, že si zabouchnul auto a klíčky nechal uvnitř. Lomcuje klikama od všech dveří i od kufru, ale není mu to nic platný, může se jen přes sklo dívat, jak si klíčky hoví na sedadle spolujezdce.
 
@@ -37,7 +37,7 @@ Pak přijel ze vsi traktorista s Radkem, Šárka už zůstala doma. Hned si ře
 
 Pak přijel traktorista se silným řetězem a rval auto do svahu, až se tam vyryly hned čtyři brázdy od kol, a stmívalo se, byla mi hrozná zima a čím odjet jsme stejně neměli, i když auto už bylo na cestě, takže nás Radek pozval k nim na čaj, ať se ohřejeme.
 
-### Pepík
+## Pepík
 
 Místo, kde dům koupili, není ani vesnice. Ještě po válce byla, ale všechno podminovali a vyhodili do vzduchu, aby se v barácích nikdo neschovával. Kromě obydlených domů. Ty byly tři. Časem jeden spadnul a zůstaly dva. Vesnice se jmenovala Prameny. Dům koupili za babku, protože jako chalupu ho nikdo nechtěl. Ze dvou důvodů. První je, že se tam v zimě nepluží cesta. Respektive nefrézuje, protože tady bývá hodně sněhu. Takže jedete vyfrézovanou cestou, po obou stranách mantinely, a najednou z něj kouká směrovka do vaší vesnice. Ale cesta žádná, jen sněhová hradba. A v létě, když cesta je, se tam krade, mohli by se dovnitř prostřílet dynamitem, nikdo by je neslyšel, nikdo by si toho nevšiml.
 
@@ -45,7 +45,7 @@ Všechny peníze, co měli, museli dát za ten dům, protože to zrovna dvakrát
 
 Líbilo se mi, že na všechno měli svůj názor. Například židle prý jsou daleko lepší, protože pohodlí uspává, a pokud si s někým chcete popovídat, sedací souprava je úplný zabiják. Stejně tak neměli televizi, prý aby žili svůj vlastní příběh a ne cizí. Normálně bych se hádal, že je to blbost, protože co je špatný na Majoru Zemanovi nebo na nějaký jiný kriminálce, ale že se mi oba líbili, tak jsem mlčel. Hlavně se mi líbilo, jak se přes to přenesli, že jsem jim tak zablátil vohoz, táta by mě seřval do kulatýho čtverečku, ale oni nic, dokonce nám nabídli svoje suchý věci na převlečení. Kdybych to měl shrnout, tak pohoda, prostě pohoda.
 
-### Anežka
+## Anežka
 
 Jediná šance byla rozbít okýnko, ale Pepík nechtěl, že by ho táta zabil. Museli jsme se zeptat, kde mají někde v okolí veřejný telefon, a zavolat k nám domů, že máme problém. Máma byla nervózní a hned že sežene nějakýho souseda, protože musím domů, ačkoli nám nabízeli přespání tady u nich. Jenže jak na ni čekáme, přihrnul se ten chlápek od veřejného telefonu, že tohle nemá zapotřebí, lítat sem a tam jak listonoš, a že volala máma, prý žádný auto nesehnala a že jí musím zavolat, protože mi dá na noc nějaký hrozně důležitý rady. Říkám, že nikam nejdu a že až zavolá, ať jí prostě vyřídí, že by to bylo zbytečný, protože vím přesně, o jaký důležitý rady jde. Všichni na mě chvíli zírali, a když jim to došlo, začali se smát, i ten naštvanej od telefonu, takže pak odešel docela v pohodě.
 
@@ -53,15 +53,15 @@ Pepík se rozhodl, že bude spát v tričku a ve slipech, ale já si od Šárk
 
 Úplně mě rozhodil, vůbec jsem nemohla spát, musela jsem myslet na to, že jsem byla nespravedlivá, že jsem se nad něj asi povyšovala, že já jsem věřící a on ne a že já jsem na gymplu a on automechanik. A nejhorší, co mě napadlo, bylo, že možná proto si ho držím od těla, ne kvůli nějaký cudnosti, ale protože není perspektivní, jak říká máma. A úplně nejhorší je, že jsem s ním klidně dávno mohla něco mít, protože tohle, tohle je ještě daleko větší hřích.
 
-### Šárka
+## Šárka
 
 Připadala jsem si s nimi tak dobře. Na chvíli ze mě úplně všechno spadlo. Jim to prostě nedalo, neuběhla chvilka, aby se pod nějakou záminkou nějak neštípli, nebo aspoň nedloubli, bylo vidět, že jsou oba rozpálený jak kamna. Přišlo mi krásný mít za jedinej problém, jestli tomu dokážu vzdorovat do úterý, anebo až do čtvrtka. Přesně takoví jsme byli s Radkem ještě nedávno, věřili jsme, že stačí, když se budeme mít rádi a budeme všechno dělat poctivě. Ještě nedávno. Ale nějak se to zamotalo, s tátou, s mimčem, tohle byl po dlouhý době první večer bez starostí. A když přijeli za pár dní vrátit peníze, který jim Radek půjčil pro traktoristu, nepřijel jen on, ale i ona, i když nemusela. A tak si myslím, že to bylo nějak vzájemný. Tím pádem když pak přišli s naprosto šílenou věcí, totiž aby mě tu Radek nechal samotnou s těžce nemocným dítětem a jel prosit o zázrak nějaký zjevení na nejodlehlejším konci Balkánu, přišlo mi to v tu chvíli jako dobrá věc.
 
-### Radek
+## Radek
 
 Celý život se k téhle chvíli vracím. A vidím samé veselé obrázky. Slunečno. Dva lidi lezou po zemi a hledají klíče. Tři lidi tlačí auto a ono je celý ohodí. Všichni se suší a je to hezký večer. Nic nevypadá nějak důležitě. A všechno vypadá dobře. Jenže přesně tady se přehodila nějaká výhybka. Přesně tady, vím to. Kdyby bývali neztratili ty klíčky, kdyby nás to auto neohodilo, bylo by všechno jinak. Ještě nevíte, co mám na mysli, ale vzpomeňte si, až budete všechno znát do konce, vzpomeňte si. A řekněte mi, bylo by to lepší? Bylo by naše dítě naživu? Měl bych ženu? Nevím. Chtěl bych. Ale vážně nevím.
 
-### Pepík
+## Pepík
 
 Dneska večer vyráží, přes noc přejedou Rakousko a ráno budou kdovíkde. Kdo by to byl ještě před pár lety tušil. Anežčina máti samozřejmě nesmí chybět, je přece vedoucí výpravy. Celý týden jsme se s Anežkou neviděli, protože musela pomáhat smažit řízky a vařit vejce natvrdo, protože v cizině je hrozně draho. Ale teď ležím v trávě kousek za vesnicí a čekám, až se setmí, abych se mohl připlížit, protože poprvé tam smím zůstat přes noc. Přes noc, celou noc, chápete?! Ale až padne tma, tohle je moravská vesnice. Jsem tu už dlouho, protože jsem se nemohl dočkat, ale nevadí, tolik si představuju všechno, co by se dneska v noci mohlo stát, pořád a pořád dokola, že vůbec nevnímám čas. Nade mnou táhnou mraky, objevují se za lesem a mizí za kopcem. Měsíc už je na nebi. Pak zase začíná padat rosa… Jsem šťastný, vím to. Vyjdou hvězdy a konečně se plížím zadem přes zahradu, otevírá, má tu svoji naškrobenou bílou, po prášku vonící košili, ale když jdu za ní do schodů, tak tam, kde býval vždycky tmavší stín kalhotek, teď není nic.
 
