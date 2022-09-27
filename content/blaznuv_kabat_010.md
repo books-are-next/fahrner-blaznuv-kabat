@@ -5,11 +5,11 @@ contentType: prose
 
 <section>
 
-### Bruslař
+## Bruslař
 
 Říkají mi Bruslař. Říkali mi i jinak, Ost, Dederón, ale teď, co jezdím na bruslích, mi říkají Bruslař. Ani tak to není kdovíco, ale o trochu lepší jo. Sem LKW-Fahrer, kamioňák, abyste rozuměli. Na dlouhý štreky. Z Bavorska až do Andalusie. Původně sem Ost, od Magdeburku, z menšího městečka, který byste neznali. Když sem byl malej, byla tam jedna drogérie, jedno papírnictví, jedno hračkářství. Na co taky víc, když byly čtyři druhy šampónu, tři zubní pasty. A pivo, jeden druh, místní, koho by napadlo vozit je třeba z Rostocku. Proč? Úplně je to pryč. Všechno je jinak, jak bylo sjednocení. Jogurtů? Milión. Sýrů? Milión. Španělský, italský, francouzský. Potřebujou čím dál víc náklaďáků, ty blbce, který to dovezou. Jen si myslíte, že už jich mají dost, bác, další pobočky Lidlu ve Francii, v Itálii. Pořád sou inzeráty, že shánějí. Všude. Tak sem si řekl, proč to nevyužít? A vozím pivo. Do Španělska jen flašky, naložím je u Koblenze a neptám se, i když je to divný. Copak by si je sami neuměli udělat? Vážně se vyplatí vozit prázdný flašky až do Sevilly? Nebo je to prostě tím, že ten pivovar stejně vlastní Heineken? Neptám se. Složím prázdný, u nás vyrobený láhve s nápisem Cruzcampo a naložím stejný, ale už plný. A valím zpátky. Někdy je změna, beru pivovar v Córdobě, naproti univerzitě, anebo Heineken v Madridu, hned na začátku, na tý dlouhý rovince, jak se sjíždí z hor. Mně to nechutná. Když už mám pít jejich pivo, tak San Miguel a v hospodě. Oni dávají vychladit sklenice do mražáku, a jak načepujou, pivo se zevnitř namrazí a časem se malý kousky odlepujou a plavou nahoru. To mě baví, sedět a dívat se na to, a bodejť by ne, když je venku přes čtyřicet ve stínu. Koukám se na malý ledový mimikry piva a myslím na svou ženu, kterou miluju, kterou mám doma.
 
-### Sofia
+## Sofia
 
 V kuchyni nad ledničkou je mapa Evropy. Tam ho mám červeným fixem, celou trasu. Z Mnichova do Koblenze, pak dolů, přes Lucembursko, na Metz, na Paříž a z Paříže dolů na Orléans a Bordeaux a dál až na Irún, což je španělská hranice, Pyreneje, který přejede, a je v Burgosu, a přejede ještě jedny hory a je v Madridu, kde vyloží, anebo jede ještě dál. Někdy mi zavolá a já mám takový špendlík s praporkem, zapíchnu si ho tam, abych věděla, kde teď zhruba je. Bojím se o něj, samozřejmě. Nedávno u nich ve firmě zabila pneumatika mladýho Poláka. Když ji dofukoval, tak se roztrhla. Říkal, ať si nemyslím, že je to nějaká guma, ačkoli se tomu tak říká. Že jsou to mraky drátů. Jenom zatavený že jsou v gumě. Někdy to bouchne za jízdy, dráty že se omotají kolem nápravy, zaseknou se a dřou o asfalt, až se dočervena rozžhaví a zapálí tu gumu, že Nizozemci, aby nazpátek nejezdili prázdný, si vozej ze Španělska balíky slámy, že viděl hořet kamión, kterýmu bouchla guma v zatáčkách v Pyrenejích, sláma okamžitě chytla a černej kouř bylo vidět na dálku nad horama. Jak bych se o něj nebála, bojím, to ano.
 
@@ -17,15 +17,15 @@ Ale někdy se stejně musím smát. Třeba ten špendlíček tady, to je parkovi
 
 Když jsem ho pak viděla, lekla jsem se, že měl bouračku, ale od tý doby pokaždé se u tohodle špendlíčku musím smát. To víte, na benzínce máme dvanáctky. Bývám dlouho sama doma, televize mě někdy nebaví, a tak sedím a pozoruju špendlíčky, hodně často, až se sama divím, protože, víte, já ho nemiluju.
 
-### Bruslař
+## Bruslař
 
 Jedu čtyři a půl hodiny a musím udělat bezpečnostní pauzu. Pak jedu ještě další čtyři a půl hodiny a musím udělat devět hodin pauzu, spát. Jenže je to blbě vymyšlený a za pár dní se vám rozhodí rytmus, máte spát třeba dopoledne v jedenáct, ste dole pod Córdobou, slunce vám praží do plechový kabiny a neusnete, pot z vás leje, úplný čůrky, neusnete za žádnou cenu. Pak vyrazíte na noc a za pár hodin vás čeká peklo. To nevyspání, to přemáhání, to je až fyzická bolest a já ano, já chápu, že lidi mučili nevyspáním, STASI, a že oni pak všechno řekli, jen aby je nechali vyspat. Bojuju proti tomu prkýnkem. Připravím si ho, na něj si nakrájím papriku, rajčata, sýry, ale hlavně klobásky, a jedu a zobu. Jak mám plnou pusu a jak žvýkám, pořád musím něco žvýkat, určitě neusnu, to jediný mi pomáhá, jinak nic.
 
-### Sofia
+## Sofia
 
 Nebyl žádný krasavec, ani když jsme se brali. Zrzavý, samá piha, bílá kůže, vůbec se neopálí, jenom zčervená. A k tomu pokaždý, jak se vrátí, každou novou štreku, je zase nafouklejší, snad ani není normální, jak on je tlustej. Jenom se směje. Říká, vidíš a v kamiónu, tam koukáš stejně často dopředu jako do zrcátka, jestli něco nebereš vzadu návěsem, ale toho, jak sem tlustej, sem si v zrcátku nevšimnul. My jsme spolu nikdy nespali, i když jsme manželé. Když jsme se brali, já mu říkala, že miluju jinýho, a on říkal, že to vydrží, ale jak jsme spolu, první rok, druhý, třetí, všichni, který jsem měla ráda, jsou zabitý, mrtví. A moje první láska, ten, kterýho pořád miluju, o něm nic nevím. Už si říkám, že na tom nesejde, že bych s ním i spát mohla, on je jediný, úplně jediný na světě, koho mám, a je moc hodnej, hrozně moc pro mě udělal. Tak jsem mu to jednoho dne řekla, když jsme měli výročí svatby, že bychom mohli spát spolu v jedný ložnici. Kdyby zhubnul.
 
-### Bruslař
+## Bruslař
 
 Nejhorší pro mě vždycky byly víkendy, muset osmačtyřicet hodin stát. Já rád vařím, tak sem si nakoupil a už několik dnů předem vymýšlel, co si zase uklohním. Mám pod návěsem takovej kastl, v něm židličku a stoleček, kempinkovej, samozřejmě. Sednu si, oškrábu brambůrky, povařím brambůrky, pak je malinko opeču, k tomu klobásku, najím se, umyju nádobí, uklidím nádobí, zdřímnu, okna vypucuju, koberečky vypucuju, ale stejně pořád hrozná fůra času.
 
@@ -33,19 +33,19 @@ Teď, co mi říkají Bruslař, už tenhle problém nemám. Vozím kalorickou ta
 
 Smějou se mi, protože se nedokážu ovládat, nedokážu přestat žrát, já jídlo miluju. Ale vůli já mám, protože sem byl na kajaku, za juniory, reprezentant. Kdysi. Za NDR. Kajak je strašná dřina, to pádlování, na něj potřebujete strašnou vůli neseknout s tím, takže vůli mám. A kdybyste kdykoli, kdekoli mezi Koblenzem a Madridem viděli blikat v noci světlo, je vážně možný, že to budu já, že sem se přežral, a tak bruslím.
 
-### Sofia
+## Sofia
 
 Jakmile je doma, vyvařuju mu. Opravdu se snažím, za všechno, co pro mě udělal. S ním je legrace jíst. Má rád všechno. Svoji porci sní hned, je jedno, jak velkou. Pak pozoruje vás. Je čím dál víc nesvůj, nervózní. Nakonec se vzdá a stejně se zeptá, jestli vážně hodlám celou tu porci sníst. Beru si naschvál víc. Přisunu mu svůj talíř. Teprve když jsou talíře i hrnce prázdné, má klid. Sedí, dívá se provinile stranou. Pak se zvedne a přinese brusle. Vytáhne tabulky a počítá. Bydlíme v přízemním domku, bez schodů, takže vyjíždí rovnou z předsíně. Sedne si na botník a opatrně si je obouvá, má spálená obě chodidla, hrozně spálená. Pak mi zamává a řekne třeba ahojky za tři hoďky a hned vím, že to je hodně, že kalorií bylo moc.
 
-### Bruslař
+## Bruslař
 
 Kolečka se dají vyměnit, těch bylo nepočítaně. Ale já kvůli těm chodidlům musím měnit i brusle, jak se prošlápne podrážka, je konec. Troje brusle, než sem se dostal pod devadesát kilo, což sme se dohodli, že je limit. Chlubím se jí a ona hned, že bysme mohli jít k vodě. Kousek od nás je řeka a lidi se tam chodí opalovat. Beru si plavky, pozoruju se v zrcadle. Jedinej problém, kterej vidím, že jak sem splasknul, u kůže to nešlo tak rychle. Na rukách a na nohách všechno docela ujde, ale na břiše mám takovej převis, že kdybych si ho protáhnul mezi nohama, vůbec plavky nemusím mít. Jediný, co mě napad lo, zastrkat si kůži pod plavky. Všechno bylo kvůli ní, já ji hrozně miluju, až se mi kolegové smějou. Dali mi jednou takovou kostku, když sem měl svátek. Na ní sou různý polohy, sexuální, samozřejmě, a můžete si hodit. Sofi se vedle strojí, já sedím v plavkách u stolu, házím si kostkou a k mý hrůze na ní není jediná poloha, abych ji při tom tou kůží nepleskal. Jak tohle udělám, nemám ánunk.
 
-### Sofia
+## Sofia
 
 Zhubnul, až na něm kůže visí. A místo aby byl na sebe hrdý, protože málokdo zhubne a takhle rychle, ještě se stydí. Zase se tak po očku dívá. Nevadí mi to. Když jsme se poznali, musel ležet, ani se nehnul, dokud se mu nezahojila chodidla. Chodidla, řekli byste taková malá ploška, ale jakmile se nemůžete postavit, nic. Teprve po dlouhé době mohl aspoň na kolena a doplazit se na záchod, ale na ten jsem mu stejně musela zase pomáhat. Dlouhá doba, co jsem mu nosila mísu a bažanta. A vynášela. Krmila ho. Byl pacient a já chůva. On se stydí, ale i s převislou kůží na břiše vypadá daleko líp než tehdy, co jsem přišla do Německa, v kapse tři adresy a jinak nic. Na dvou adresách mi dali jídlo, nějaké peníze a bylo vidět, jak jsou rádi, že se mě za peníze zbaví. Teprve na třetí mi řekli, u nás ne, ale máme syna, co potřebuje chůvu, péči, on měl nehodu. A bylo.
 
-### Bruslař
+## Bruslař
 
 Španělsko, ten jih snad ani nevypadá jako Evropa. Člověk může jet dlouhý hodiny a žádná vesnice, žádný auto, nic. I ve dne, natož v noci. Mám svoji zkratku dolů na Córdobu, takových dvě stě kilometrů jen olivový háje. Jednou sem tam v noci viděl fenku divokýho psa. Zašlápnul sem brzdu, abych ji nepřejel, stojím a zírám, za ní ze tmy v řadě jdou štěňata. Jak u nás housata za husou. Vychová je, naučí lovit a oni třeba nikdy neuvidí člověka. Nikde jinde tohle nejde. Všude by skončili v útulku. Od tý doby tudy rád jezdím. Taková vám krása.
 
@@ -53,13 +53,13 @@ Jednou v noci mě probudí rány. Opravdový rány, naneštěstí to nebyly hal
 
 Nakonec sem to přežil, až na chodidla. Za nějakej čas za mnou přijeli chlapi a dali na noční stolek nakládaný okurky, co sem měl v kamiónu pod lehátkem v ledničce. Ten černej čmoud se dostal do ledničky a až tam do zavřený láhve pod víčko. V pár centimetrech nahoře, kde normálně není nic, byl černej čmoud.
 
-### Sofia
+## Sofia
 
 Říká mi Sofi, ale když má dobrou náladu, jsem jeho Ljepotica. V mé rodné řeči krasavice. V Německu vycházely hned od začátku války naše noviny, chorvatské. Velkým nákladem, pro všechny utečence, a těch bylo dost. Byly tam zprávy, že naši rozbombardovali Mostar, všechno, co bylo muslimský. Ale i most. Oni nám za to zase Dubrovnik. Ale hlavně jsme hledali v seznamech padlých. Kvůli nim se to kupovalo. Snažil se mě rozveselit. Volával na mě z postele, ať mu řeknu něco po našem, a jednou povídá: Jak se řekne krasavice? Povídám: ljepotica. A on říká, to si ty, ty si moje Ljepotica.
 
 Ten den to bylo dobrý. I další vydání. Nejdříve člověk řádky jen tak přelétl. Oddechl si. A pak ještě jednou, pro jistotu, jestli ve chvatu něco nepřehlédl. Někoho. Sestru třeba. Bratra. Pak se teprve rozklepal. Nervy začaly pracovat. My bydleli na hranici Chorvatska a Bosny. Tudy se to přehnalo několikrát, představte si. Já v každém, v úplně každém výtisku objevím někoho, koho jsem znala, mrtvýho, dovedete si to představit? Ale o tátu, o mámu, o sourozence, o ty všechny jsem přišla najednou. V jediném výtisku, čtyři jména pod sebou. Tajně jsem doufala, že někam odjeli, ale neodjeli. Musela jsem s tím počítat. Když jsem byla konečně schopná vstát, přešla jsem k němu, sedla si k posteli a povídám, jsem už úplně sama, na celým světě sama. Objal mě a povídá, ať si ho vezmu. Bráním se, že mám ráda jiného. Že nepřestávám myslet na toho, kdo odtamtud dostal mě. Obzvlášť teď, když je jasné, že bych bez něj byla taky mrtvá, ho obdivuju. A miluju. A on mě znovu objal a povídá: To nevadí.
 
-### Bruslař
+## Bruslař
 
 Poznal sem to hned, jak sem přišel domů, jen sem tak stál a bylo mi blbý se zeptat, kdo z nich to je, koho si tam přečetla. Když byla schopná trošku mluvit, tak sem se dozvěděl, že všechny. Já vím, že nejsem moc chytrej, jenom na bruslích sem trochu rychlej, ale v myšlení a mluvení ani náhodou. Takže zase bezmocně stojím, přemýšlím, jak jí pomoct, co s tím. Musím myslet na mrtvý. Když ste na silnici tolik let jako já, vidíte jich spoustu. Ve Francii mají třeba takovej zvyk, že u některých platidel vystavují zmuchlaný dodávky, ve kterých někdo převálcoval cestáře, co někde sekali trávu nebo opravovali svodidla, a pak se šli do tý dodávky nasvačit, zrovna když měl někdo v kamiónu mikrospánek a napálil to do ní. Udělaj takovej betonovej sokl, postaví na něj, co z tý dodávky zbylo, a na soklu je tabulka, kolik lidí bylo uvnitř. To nevidíte. Horší sou věci, co přímo vidíte. Viděl sem padat náklaďák s autama v soutěskách, kterejm šoféři říkaj Jurskej park. Měli je tak dobře přikurtovaný, že neztratili ani jedno, zůstaly na návěsu, i když byly úplně rozmlácený. Dva chlapi byli v kabině. Viděl sem kamión vlítnout čelně do lesa. Přes padesát tun je hrozná váha. Třicet sedum velkejch smrků sem napočítal, co porazili, než se auto zastavilo. Museli vyložit náklad a prořezat se do kabiny zezadu k tomu, co z nich zbylo, tak byl tahač zepředu rozmlácenej. Nebo kousek od nás. Ženská se špatně rozhlídne, vjede z vedlejší na hlavní a vpálí to přímo do kola náklaďáku. Strašnej váhovej nepoměr. Kolo ani neuhne, ani pneumatika nebouchne, ale osobák má čumák na padrť. Okamžitě sou u toho lidi. Než se svou váhou vystoupím, tahají řidičku ven, ale už má v obličeji takovej ten smířenej, vyrovnanej, spokojenej výraz. Položí ji do příkopu, a zatím už se probral spolujezdec, nevidí ji vedle sebe, začíná křičet, hroznej křik, nelidskej, ne jako v dobrodružným filmu, to nezapomenete. Dere se ven z auta, má hroznou sílu, čtyři silný chlapi ho musí držet, aby se nedostal až k ní, aby ji tam neviděl ležet a nezhroutil se. Než přijede sanitka, kope, škrábe je, celá skupinka poskakuje po silnici sem a tam, podle toho, jestli vyhrává on, nebo oni – a ta řidička tam leží, leží a nic. Skoro se usmívá. Netrpí. Tohleto nakonec říkám svojí Ljepotici a doufám, že jí aspoň trochu pomůžu. Že my samozřejmě ano, ale oni netrpí. Pak čtu v novinách, prej to byl nějakej učitel, nebo dokonce profesor, hrozně chytrej a studovanej, ale měl se z toho údajně úplně vyšinout, že už nikdy nebyl jako dřív.
 
