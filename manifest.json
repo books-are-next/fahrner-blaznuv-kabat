@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-blaznuv-kabat-5cbbf8a",
-  "revision": "5cbbf8a",
+  "identifier": "fahrner-blaznuv-kabat-de1dea3",
+  "revision": "de1dea3",
   "readingOrder": [
     "promo.html",
     "blaznuv_kabat_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:40:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487639572
+    "date": "Sat Oct 01 2022 15:46:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639199618
   },
   "documents": [
     {
