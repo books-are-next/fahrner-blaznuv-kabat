@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fahrner-blaznuv-kabat-de1dea3",
-  "revision": "de1dea3",
+  "identifier": "fahrner-blaznuv-kabat-5bf18ac",
+  "revision": "5bf18ac",
   "readingOrder": [
     "promo.html",
     "blaznuv_kabat_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:46:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639199618
+    "date": "Tue Oct 04 2022 16:37:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901436357
   },
   "documents": [
     {
@@ -1072,9 +1072,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 121,
+      "words": 118,
       "chars": 790,
-      "ideas": 15,
+      "ideas": 12,
       "role": "about",
       "order": null,
       "prev": "blaznuv_kabat_013.html",
@@ -1092,9 +1092,9 @@
   ],
   "totals": {
     "all": {
-      "words": 42340,
+      "words": 42337,
       "chars": 238352,
-      "ideas": 482
+      "ideas": 479
     },
     "chapters": {
       "words": 42213,
