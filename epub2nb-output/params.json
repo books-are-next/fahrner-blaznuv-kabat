@@ -9,7 +9,8 @@
       "modified": "2021-02-25T00:00:00.000Z",
       "publisherShort": "mkp",
       "edition": "Beletrie",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2814-4"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -375,6 +376,6 @@
       "user": "books-are-next",
       "repo": "fahrner-blaznuv-kabat"
     },
-    "generatedAt": 1665415534284
+    "generatedAt": 1666031522057
   }
 }

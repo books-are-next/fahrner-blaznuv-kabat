@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: Beletrie
   contentType: prose
+  isbn: 978-80-274-2814-4
 readingOrder:
   - promo.html
   - blaznuv_kabat_005.html
